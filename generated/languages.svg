@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #f34b7d;width: 86.552%;" class="progress-item"></span><span style="background-color: #555555;width: 12.496%;" class="progress-item"></span><span style="background-color: #178600;width: 0.666%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.080%;" class="progress-item"></span><span style="background-color: #663399;width: 0.069%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.055%;" class="progress-item"></span><span style="background-color: #222c37;width: 0.041%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.016%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.010%;" class="progress-item"></span><span style="background-color: #aace60;width: 0.007%;" class="progress-item"></span><span style="background-color: #dd1100;width: 0.004%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 0.003%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 0.001%;" class="progress-item"></span><span style="background-color: #427819;width: 0.000%;" class="progress-item"></span><span style="background-color: #DA3434;width: 0.000%;" class="progress-item"></span><span style="background-color: #3B2F63;width: 0.000%;" class="progress-item"></span>
+<span style="background-color: #f34b7d;width: 86.557%;" class="progress-item"></span><span style="background-color: #555555;width: 12.496%;" class="progress-item"></span><span style="background-color: #178600;width: 0.666%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.080%;" class="progress-item"></span><span style="background-color: #663399;width: 0.069%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.055%;" class="progress-item"></span><span style="background-color: #222c37;width: 0.041%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.016%;" class="progress-item"></span><span style="background-color: #aace60;width: 0.007%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.005%;" class="progress-item"></span><span style="background-color: #dd1100;width: 0.004%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 0.003%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 0.001%;" class="progress-item"></span><span style="background-color: #427819;width: 0.000%;" class="progress-item"></span><span style="background-color: #DA3434;width: 0.000%;" class="progress-item"></span><span style="background-color: #3B2F63;width: 0.000%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">C++</span>
-<span class="percent">86.55%</span>
+<span class="percent">86.56%</span>
 </li>
 
 
@@ -212,20 +212,20 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 
 
 <li style="animation-delay: 1200ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3572A5;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Python</span>
-<span class="percent">0.01%</span>
-</li>
-
-
-<li style="animation-delay: 1350ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#aace60;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">HLSL</span>
 <span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 1350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3572A5;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Python</span>
+<span class="percent">0.00%</span>
 </li>
 
 
